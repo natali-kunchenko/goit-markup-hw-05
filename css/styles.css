@@ -560,7 +560,7 @@ footer {
 .project-description {
     position: absolute;
     top:0;
-    height: 100%;
+    bottom: 0;
     width: 100%;
     transform: translateY(100%);
     padding: 63px 24px;
